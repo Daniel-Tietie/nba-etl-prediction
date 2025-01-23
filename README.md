@@ -18,7 +18,7 @@ The second phase of the project leverages the processed data to perform explorat
 ---
 
 ## ⚙️ Setup and Installation
-### Prerequisites
+### Requirements
 - **Python**: Version 3.9 or above.
 - Install required Python libraries:
   ```bash
