@@ -24,8 +24,7 @@ This project demonstrates a complete data pipeline for NBA basketball statistics
   pip install pandas numpy requests sqlalchemy scikit-learn matplotlib seaborn nba_api
 
 
-  📊 Example Results
-
+## 📊 Example Results
 Performance analysis of top NBA players
 Team statistics and correlation with winning percentage
 Prediction accuracy metrics for game outcomes
