@@ -25,23 +25,21 @@ This project demonstrates a complete data pipeline for NBA basketball statistics
 
 
 ## 📊 Example Results
-Performance analysis of top NBA players
-Team statistics and correlation with winning percentage
-Prediction accuracy metrics for game outcomes
-[Screenshot of visualization/dashboard can be placed here]
+- Performance analysis of top NBA players
+- Team statistics and correlation with winning percentage
+- Prediction accuracy metrics for game outcomes
 
-🔄 Pipeline Workflow
 
-Data Extraction: Fetch data from NBA Stats API
-Data Transformation: Clean, normalize, and prepare data for analysis
-Data Loading: Store processed data in SQLite database
-Exploratory Analysis: Identify trends and performance patterns
-Model Development: Train and optimize prediction models
-Results Visualization: Generate insights through charts and dashboards
+## 🔄 Pipeline Workflow
+- Data Extraction: Fetch data from NBA Stats API
+- Data Transformation: Clean, normalize, and prepare data for analysis
+- Data Loading: Store processed data in SQLite database
+- Exploratory Analysis: Identify trends and performance patterns
+- Model Development: Train and optimize prediction models
+- Results Visualization: Generate insights through charts and dashboards
 
-📝 Future Improvements
-
-Integration with cloud platforms (AWS/Azure) for advanced deployment
-Real-time prediction capabilities
-Enhanced feature engineering for improved accuracy
-Interactive dashboard for exploring predictions
+## 📝 Future Improvements
+- Integration with cloud platforms (AWS/Azure) for advanced deployment
+- Real-time prediction capabilities
+- Enhanced feature engineering for improved accuracy
+- Interactive dashboard for exploring predictions
