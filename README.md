@@ -31,12 +31,12 @@ This project demonstrates a complete data pipeline for NBA basketball statistics
 
 
 ## 🔄 Pipeline Workflow
-- Data Extraction: Fetch data from NBA Stats API
-- Data Transformation: Clean, normalize, and prepare data for analysis
-- Data Loading: Store processed data in SQLite database
-- Exploratory Analysis: Identify trends and performance patterns
-- Model Development: Train and optimize prediction models
-- Results Visualization: Generate insights through charts and dashboards
+- **Data Extraction**: Fetch data from NBA Stats API
+- **Data Transformation**: Clean, normalize, and prepare data for analysis
+- **Data Loading**: Store processed data in SQLite database
+- **Exploratory Analysis**: Identify trends and performance patterns
+- **Model Development**: Train and optimize prediction models
+- **Results Visualization**: Generate insights through charts and dashboards
 
 ## 📝 Future Improvements
 - Integration with cloud platforms (AWS/Azure) for advanced deployment
